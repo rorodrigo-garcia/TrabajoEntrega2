@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    background-image: url(https://static3.cbrimages.com/wordpress/wp-content/uploads/2018/02/marvel-2018-header.jpg);
+background-repeat: no-repeat;
+
+}
+.navbar{
+    background-image: linear-gradient(black,white);
+}
+
+.navbar-brand{
+    color:white;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+   
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header h1{
+    font-size: 35px;
+    background-image: linear-gradient(white,black);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+
+}
+.main{
+    display: flex;
+}
+.card{
+  background-color: black;
+    color: white;
+   
+}
+.card-title{
+    font-size: 18px;
+}
+
+
+
+.btn:hover{
+    color: brown;
+    background-color: black;
+   
+}
+
+.mainnos {
+    background-image:linear-gradient(white,black);
+    color: rgb(117, 42, 42);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
