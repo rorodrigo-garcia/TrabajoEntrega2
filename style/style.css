@@ -60,6 +60,13 @@ animation-iteration-count: 3s;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.btnfor{
+    color: white;
+    background-color: blue;
+}
+.btnfor:hover{
+    background-image: linear-gradient(white,black);
+}
 
 @keyframes rere {
     0%{
